@@ -1,6 +1,3 @@
-clone form https://github.com/vkurennov/rails-nginx-passenger-ubuntu
-
-
 rails-nginx-passenger-ubuntu
 ============================
 
