@@ -1,6 +1,8 @@
 rails-nginx-passenger-ubuntu
 ============================
 
+Clone from https://github.com/vkurennov/rails-nginx-passenger-ubuntu
+
 My notes on setting up a simple production server with ubuntu, nginx, passenger and mysql for rails.
 
 Aliases
